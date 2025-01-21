@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>世界遺産リスト</title>
+    <link rel="icon" href="images/tubiao.png" type="image/x-icon">
+    <link rel="stylesheet" href="../css/heritage.css">
+</head>
+<body>
+    <img src="../images/tubiao2.png" alt="Logo" style="position: absolute; top: 10px; left: 10px; height: 230px; z-index: -1;">
+    <h1>世界遺産リスト</h1>
+    <button class="back-button" onclick="window.location.href='index.html'">国の選択に戻る</button>
+    
+    <div class="search-container">
+        <input type="text" id="searchBox" class="search-box" placeholder="世界遺産を探す..." onkeyup="filterHeritage()">
+    </div>
+
+    <div class="heritage-boxes" id="heritageBoxes">
+        <!-- 动态填充具体遗产内容 -->
+    </div>
+
+    <script src="../java/heritage.js"></script>
+</body>
+</html>
