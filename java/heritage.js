@@ -12,7 +12,7 @@ const urlParams = new URLSearchParams(window.location.search);
                 { name: "武当山古建築群",image: "https://p1.itc.cn/images01/20231128/01a5c4be6f554663b57f9a31fd566b0c.jpeg" },
                 { name: "ラサのポタラ宮の歴史的遺跡群",image: "https://img0.baidu.com/it/u=2702748320,1877565576&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=1067" },
                 { name: "承徳避暑山荘と外八廟",image: "https://pic.rmb.bdstatic.com/bjh/news/7bad3455abc6276a0fc171e63c0c4ef6.png" },
-                { name: "曲阜の孔廟、孔林、孔府",image: "https://worldheritage-mania.com/wp-content/uploads/2022/06/shutterstock_590932325-1.jpg" },
+                { name: "曲阜の孔廟、孔林、孔府",image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dacheng_Dian%2C_Kong_Miao.jpg/275px-Dacheng_Dian%2C_Kong_Miao.jpg" },
                 { name: "廬山",image: "https://img0.baidu.com/it/u=668291099,35975877&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=1423" },
                 { name: "峨眉山・楽山大仏",image: "https://pic1.zhimg.com/100/v2-2d47b1945210af9e5cc096b317f73d98_r.jpg" },
                 { name: "平遥古城",image: "http://5b0988e595225.cdn.sohucs.com/images/20180226/018248a65dc84bd98920305dfbb2befc.jpeg" },
